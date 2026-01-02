@@ -9,7 +9,7 @@ El archivo contiene:
 - Tablas dinámicas
 - Segmentadores
 - Dashboard final
-- [Descargar dashboard en Excel](https://github.com/Ingeniero-REC/analisis-desercion-laboral-excel/raw/main/data/desercion_laboral.xlsx)
+- [Descargar dashboard en Excel]([https://github.com/Ingeniero-REC/analisis-desercion-laboral-excel/raw/main/data/desercion_laboral.xlsx](https://github.com/Ingeniero-REC/Dashboard-RRHH-Desercion-Laboral/blob/main/Dashboard%20-%20An%C3%A1lisis%20de%20la%20Deserci%C3%B3n%20Laboral.xlsx)
 
 ### Vista general
 
