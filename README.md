@@ -1,4 +1,4 @@
-# 📊 Análisis de la Deserción Laboral | Excel Dashboard
+# 📊 Análisis de la Deserción Laboral | Dashboard
 ## 📌 Descripción del proyecto
 Este proyecto presenta un **dashboard en Excel** para el análisis de la **deserción laboral**, con el objetivo de identificar
 patrones, factores de riesgo y métricas clave que apoyen la toma de decisiones en el área de Recursos Humanos.
